@@ -1,4 +1,4 @@
-import { SignIn, SignOutButton } from "@clerk/nextjs";
+import { SignOutButton } from "@clerk/nextjs";
 import SignInReworked from "@/app/components/signInReworked";
 
 export default function Home() {
