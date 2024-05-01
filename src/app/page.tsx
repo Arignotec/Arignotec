@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex min-h-screen flex-col items-center justify-between p-24">
           <SignInReworked/>
           <SignOutButton/>
-          <h1 className={"text-danger"}>Hello World</h1>
+          <h1 className={"text-blue-700"}>Hello World</h1>
       </main>
   );
 }
